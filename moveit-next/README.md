@@ -18,3 +18,11 @@ e nesses intervalos o usuário é convidado a realizar um exercício físico, se
 <img src="./imgs/img_2.PNG" />
 
 ## Funcionalidades do move.it 
+
+- [x] Subir de nível (levelUp)
+- [x] Novo desafio (startNewChallenge)
+- [x] Reiniciar desafio (resetChallenge) 
+- [x] Desafio Completo (completedChallenge)
+- [x] Desafio não concluído (handleChallengeFailed)
+- [x] Fecha a notificação (closeLevelUpModal)
+
