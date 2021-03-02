@@ -23,6 +23,11 @@ e nesses intervalos o usuário é convidado a realizar um exercício físico, se
 - [x] Novo desafio (startNewChallenge)
 - [x] Reiniciar desafio (resetChallenge) 
 - [x] Desafio Completo (completedChallenge)
-- [x] Desafio não concluído (handleChallengeFailed)
 - [x] Fecha a notificação (closeLevelUpModal)
+
+- [x] Iniciar um ciclo (startCountdown)
+- [x] Abandonar o ciclo (resetCountdown)
+
+- [x] Desafio concluído (handleChallengeSucceeded)
+- [x] Desafio não concluído (handleChallengeFailed)
 
