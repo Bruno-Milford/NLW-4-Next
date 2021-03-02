@@ -13,3 +13,8 @@ e nesses intervalos o usuário é convidado a realizar um exercício físico, se
 - [React](https://pt-br.reactjs.org/)
 - [NextJS](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+
+<img src="./imgs/img_1.PNG" />
+<img src="./imgs/img_2.PNG" />
+
+## Funcionalidades do move.it 
